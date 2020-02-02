@@ -1,0 +1,2 @@
+set_io clk P7 -pullup no
+set_io blink J11 -io_std SB_LVCMOS -pullup no
